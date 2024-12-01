@@ -1,0 +1,4 @@
+Change Net Name : Old Net Name=OUTB New Net Name=OUT_B
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q1 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q3 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q6 AUIRF7749L2TR

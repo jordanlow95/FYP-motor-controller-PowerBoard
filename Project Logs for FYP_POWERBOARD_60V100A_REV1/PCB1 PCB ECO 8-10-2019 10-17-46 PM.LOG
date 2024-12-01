@@ -1,6 +1,0 @@
-Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
-Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
-Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
-Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
-Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
-Added Rule: Name=Schematic Width Constraint

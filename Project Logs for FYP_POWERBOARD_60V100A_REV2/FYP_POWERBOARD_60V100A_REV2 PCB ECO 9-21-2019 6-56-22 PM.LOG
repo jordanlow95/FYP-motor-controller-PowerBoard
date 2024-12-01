@@ -1,0 +1,57 @@
+Change component parameters: Designator = "J1"; Footprint = "HDRV12W60P0X200_1X12_2415X200X525P"; UniqueID = "\VCKIODHV"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M22-201.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "HARWIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2011205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-M22-2011205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2011205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1730943"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/1730943"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Change component parameters: Designator = "J2"; Footprint = "HDRV12W60P0X200_1X12_2415X200X525P"; UniqueID = "\XEZMBYFP"
+Change component parameters. Clean all parameters for all variants
+Change component parameters (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M22-201.pdf"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Name"; Value = "HARWIN"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2011205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Part Number"; Value = "855-M22-2011205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2011205"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Part Number"; Value = "1730943"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/1730943"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "System"; Value = "Connector"; VariantName = "[No Variations]"
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C1 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C2 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C3 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C4 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C7 2.2u
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C8 2.2u
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C9 2.2u
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C10 2.2u
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C11 tantalum cap, 1210, 100uF
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C12 2.2u
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C13 2.2u
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component IC2 AD8418AWBRZ
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component IC3 AD8418AWBRZ
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component IC4 XC6220B331MR-G
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R1 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R2 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R3 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R7 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R8 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R9 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R10 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R11 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R12 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R13 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R14 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R15 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R16 CRCW060310K0JNTC
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R17 10k
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R18 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R19 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R20 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R21 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R22 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R23 0R
+Added Room: Name=FYP_POWERBOARD_60V100A_REV2

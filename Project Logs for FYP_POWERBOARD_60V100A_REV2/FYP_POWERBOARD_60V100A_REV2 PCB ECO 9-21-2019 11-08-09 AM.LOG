@@ -1,0 +1,56 @@
+Added Component: Designator=R?(RESC10052X137N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70883778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/bourns-css2h-3920r-l500f/70883778/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CSS2H-3920R-L500F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSS2H-3920R-L500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CSS2H3920RL500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CSS2H3920RL500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1348150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1348150"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC10052X137N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70883778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/bourns-css2h-3920r-l500f/70883778/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CSS2H-3920R-L500F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSS2H-3920R-L500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CSS2H3920RL500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CSS2H3920RL500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1348150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1348150"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC10052X137N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70883778"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/bourns-css2h-3920r-l500f/70883778/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://componentsearchengine.com/Datasheets/2/CSS2H-3920R-L500F.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.37mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Bourns"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CSS2H-3920R-L500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "652-CSS2H3920RL500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=652-CSS2H3920RL500F"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1348150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/1348150"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=OUT_A Pin=R?-1
+Added Pin To Net: NetName=OUT_C Pin=R?-1
+Added Pin To Net: NetName=OUTB Pin=R?-1
+Added Pin To Net: NetName=PHASE_A Pin=R?-2
+Added Pin To Net: NetName=PHASE_B Pin=R?-2
+Added Pin To Net: NetName=PHASE_C Pin=R?-2
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? CSS2H-3920R-L500F

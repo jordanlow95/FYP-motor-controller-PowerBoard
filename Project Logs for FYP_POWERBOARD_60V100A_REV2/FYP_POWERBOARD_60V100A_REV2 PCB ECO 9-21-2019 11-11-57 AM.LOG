@@ -1,0 +1,124 @@
+Removed Pin From Net: NetName=GH_A Pin=R1-1
+Removed Pin From Net: NetName=NetQ?_9 Pin=R1-2
+Removed Pin From Net: NetName=GH_B Pin=R2-1
+Removed Pin From Net: NetName=GH_C Pin=R3-1
+Removed Pin From Net: NetName=GL_B Pin=R10-1
+Removed Pin From Net: NetName=GL_A Pin=R11-1
+Removed Pin From Net: NetName=GL_C Pin=R12-1
+Removed Member From Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=R1
+Removed Member From Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=R2
+Removed Member From Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=R3
+Removed Member From Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=R10
+Removed Member From Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=R11
+Removed Member From Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=R12
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Component: Designator=R?(RESC1608X55N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Allied_Number"; Value = "70286645"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Allied Price/Stock"; Value = "https://www.alliedelec.com/te-connectivity-cpf0603b100re/70286645/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.farnell.com/datasheets/1786775.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "0.55mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "TE Connectivity"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=279-CPF0603B100RE"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "6661951P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "http://uk.rs-online.com/web/p/products/6661951P"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GH_A Pin=R?-1
+Added Pin To Net: NetName=GH_B Pin=R?-1
+Added Pin To Net: NetName=GH_C Pin=R?-1
+Added Pin To Net: NetName=GL_A Pin=R?-1
+Added Pin To Net: NetName=GL_B Pin=R?-1
+Added Pin To Net: NetName=GL_C Pin=R?-1
+Added Pin To Net: NetName=NetQ?_9 Pin=R?-2
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C? C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q? AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R? 4R7

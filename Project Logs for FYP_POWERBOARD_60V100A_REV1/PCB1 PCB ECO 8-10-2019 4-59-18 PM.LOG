@@ -1,9 +1,0 @@
-Removed Pin From Net: NetName=C_A Pin=J2-9
-Removed Pin From Net: NetName=C_C Pin=J2-11
-Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
-Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
-Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
-Added Pin To Net: NetName=C_C Pin=J2-9
-Added Pin To Net: NetName=C_A Pin=J2-11
-Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
-Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE

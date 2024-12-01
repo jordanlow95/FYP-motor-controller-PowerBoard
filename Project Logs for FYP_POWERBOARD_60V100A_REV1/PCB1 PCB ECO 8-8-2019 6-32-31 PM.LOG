@@ -1,2 +1,0 @@
-Change Net Name : Old Net Name=P_A New Net Name=NetIC1_1
-Change Rule Scope 1 : Old Scope=InNet('P_A') New Scope=InNet('NetIC1_1')

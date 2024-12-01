@@ -1,0 +1,182 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C1
+Change Component Designator: OldDesignator=C? NewDesignator=C2
+Change Component Designator: OldDesignator=C? NewDesignator=C3
+Change Component Designator: OldDesignator=C? NewDesignator=C4
+Change Component Designator: OldDesignator=C? NewDesignator=C5
+Change Component Designator: OldDesignator=C? NewDesignator=C6
+Change Component Designator: OldDesignator=Q? NewDesignator=Q1
+Change Component Designator: OldDesignator=Q? NewDesignator=Q2
+Change Component Designator: OldDesignator=Q? NewDesignator=Q3
+Change Component Designator: OldDesignator=Q? NewDesignator=Q4
+Change Component Designator: OldDesignator=Q? NewDesignator=Q5
+Change Component Designator: OldDesignator=Q? NewDesignator=Q6
+Change Component Designator: OldDesignator=R? NewDesignator=R1
+Change Component Designator: OldDesignator=R? NewDesignator=R2
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Change Component Designator: OldDesignator=R? NewDesignator=R6
+Change Component Designator: OldDesignator=R? NewDesignator=R7
+Change Component Designator: OldDesignator=R? NewDesignator=R8
+Change Component Designator: OldDesignator=R? NewDesignator=R9
+Change Component Designator: OldDesignator=R? NewDesignator=R10
+Change Component Designator: OldDesignator=R? NewDesignator=R11
+Change Component Designator: OldDesignator=R? NewDesignator=R12
+Change Component Designator: OldDesignator=R? NewDesignator=R13
+Change Component Designator: OldDesignator=R? NewDesignator=R14
+Change Component Designator: OldDesignator=R? NewDesignator=R15
+Change Component Designator: OldDesignator=R? NewDesignator=R16
+Added Component: Designator=C11(CAPPM3528X210N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.vishay.com/docs/40002/293d.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "2.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Vishay"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "293D107X06R3B2TE3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "N/A"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=N%2FA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = ""; VariantName = "[No Variations]"
+Added Component: Designator=IC1(SOP65P490X110-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8418A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7989903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7989903"; VariantName = "[No Variations]"
+Added Component: Designator=IC2(SOP65P490X110-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8418A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7989903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7989903"; VariantName = "[No Variations]"
+Added Component: Designator=IC3(SOP65P490X110-8N)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "http://www.analog.com/media/en/technical-documentation/data-sheets/AD8418A.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "1.1mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "Analog Devices"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "584-AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=584-AD8418AWBRZ"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "7989903"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/7989903"; VariantName = "[No Variations]"
+Added Component: Designator=J1(HDRV12W60P0X200_1X12_2415X200X525P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M22-201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HARWIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2011205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M22-2011205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2011205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1730943"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/1730943"; VariantName = "[No Variations]"
+Added Component: Designator=J2(HDRV12W60P0X200_1X12_2415X200X525P)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Datasheet Link"; Value = "https://cdn.harwin.com/pdfs/M22-201.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Height"; Value = "5.25mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Name"; Value = "HARWIN"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer_Part_Number"; Value = "M22-2011205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Part Number"; Value = "855-M22-2011205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Mouser Price/Stock"; Value = "https://www.mouser.com/Search/Refine.aspx?Keyword=855-M22-2011205"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Part Number"; Value = "1730943"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "RS Price/Stock"; Value = "https://uk.rs-online.com/web/p/products/1730943"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=VCC Pin=C11-2
+Added Pin To Net: NetName=NetIC1_1 Pin=IC1-1
+Added Pin To Net: NetName=GND Pin=IC1-2
+Added Pin To Net: NetName=GND Pin=IC1-3
+Added Pin To Net: NetName=C_A Pin=IC1-5
+Added Pin To Net: NetName=VCC Pin=IC1-6
+Added Pin To Net: NetName=VCC Pin=IC1-7
+Added Pin To Net: NetName=NetIC1_8 Pin=IC1-8
+Added Pin To Net: NetName=NetIC2_1 Pin=IC2-1
+Added Pin To Net: NetName=GND Pin=IC2-2
+Added Pin To Net: NetName=GND Pin=IC2-3
+Added Pin To Net: NetName=C_B Pin=IC2-5
+Added Pin To Net: NetName=VCC Pin=IC2-6
+Added Pin To Net: NetName=VCC Pin=IC2-7
+Added Pin To Net: NetName=NetIC2_8 Pin=IC2-8
+Added Pin To Net: NetName=NetIC3_1 Pin=IC3-1
+Added Pin To Net: NetName=GND Pin=IC3-2
+Added Pin To Net: NetName=GND Pin=IC3-3
+Added Pin To Net: NetName=C_C Pin=IC3-5
+Added Pin To Net: NetName=VCC Pin=IC3-6
+Added Pin To Net: NetName=VCC Pin=IC3-7
+Added Pin To Net: NetName=NetIC3_8 Pin=IC3-8
+Added Pin To Net: NetName=SUPPLY Pin=J1-1
+Added Pin To Net: NetName=PWRGND Pin=J1-2
+Added Pin To Net: NetName=GH_A Pin=J1-3
+Added Pin To Net: NetName=SH_A Pin=J1-4
+Added Pin To Net: NetName=GH_B Pin=J1-5
+Added Pin To Net: NetName=SH_B Pin=J1-6
+Added Pin To Net: NetName=GH_C Pin=J1-7
+Added Pin To Net: NetName=SH_C Pin=J1-8
+Added Pin To Net: NetName=ADC_TEMP Pin=J1-9
+Added Pin To Net: NetName=GND Pin=J1-10
+Added Pin To Net: NetName=+5 Pin=J1-11
+Added Pin To Net: NetName=GND Pin=J1-12
+Added Pin To Net: NetName=GL_A Pin=J2-3
+Added Pin To Net: NetName=SL_A Pin=J2-4
+Added Pin To Net: NetName=GL_B Pin=J2-5
+Added Pin To Net: NetName=SL_B Pin=J2-6
+Added Pin To Net: NetName=GL_C Pin=J2-7
+Added Pin To Net: NetName=SL_C Pin=J2-8
+Added Pin To Net: NetName=C_C Pin=J2-9
+Added Pin To Net: NetName=C_B Pin=J2-10
+Added Pin To Net: NetName=C_A Pin=J2-11
+Added Pin To Net: NetName=GND Pin=J2-12
+Change Net Name : Old Net Name=NetQ?_9 New Net Name=NetQ1_9
+Added Pin To Net: NetName=NetQ2_9 Pin=Q2-9
+Added Pin To Net: NetName=NetQ2_9 Pin=R2-2
+Added Net: Name=NetQ2_9
+Added Pin To Net: NetName=NetQ3_9 Pin=Q3-9
+Added Pin To Net: NetName=NetQ3_9 Pin=R3-2
+Added Net: Name=NetQ3_9
+Added Pin To Net: NetName=NetQ4_9 Pin=Q4-9
+Added Pin To Net: NetName=NetQ4_9 Pin=R11-2
+Added Net: Name=NetQ4_9
+Added Pin To Net: NetName=NetQ5_9 Pin=Q5-9
+Added Pin To Net: NetName=NetQ5_9 Pin=R10-2
+Added Net: Name=NetQ5_9
+Added Pin To Net: NetName=NetQ6_9 Pin=Q6-9
+Added Pin To Net: NetName=NetQ6_9 Pin=R12-2
+Added Net: Name=NetQ6_9
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C1 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C2 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C3 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C4 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C5 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C6 C3216X7S2A225K160AB
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component C11 tantalum cap, 1210, 100uF
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component IC1 AD8418AWBRZ
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component IC2 AD8418AWBRZ
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component IC3 AD8418AWBRZ
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component J1 M22-2011205
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component J2 M22-2011205
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q1 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q2 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q3 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q4 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q5 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component Q6 AUIRF7749L2TR
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R1 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R2 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R3 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R4 CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R6 CSS2H-3920R-L500F
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R7 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R8 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R9 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R10 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R11 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R12 4R7
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R13 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R14 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R15 0R
+Added Member To Class: ClassName=FYP_POWERBOARD_60V100A_REV2 Member=Component R16 CRCW060310K0JNTC
