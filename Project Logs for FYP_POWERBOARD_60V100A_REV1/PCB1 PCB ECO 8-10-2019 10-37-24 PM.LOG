@@ -1,0 +1,11 @@
+Change Component Footprint: Designator=* Old Footprint=NET_TIE New Footprint=NET_TIE1
+Change Component Footprint: Designator=* Old Footprint=NET_TIE New Footprint=NET_TIE1
+Change Component Footprint: Designator=* Old Footprint=NET_TIE New Footprint=NET_TIE1
+Change Component Footprint: Designator=* Old Footprint=NET_TIE New Footprint=NET_TIE1
+Change Component Footprint: Designator=* Old Footprint=NET_TIE New Footprint=NET_TIE1
+Change Component Footprint: Designator=* Old Footprint=NET_TIE New Footprint=NET_TIE1
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE

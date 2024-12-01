@@ -1,0 +1,3 @@
+Change Net Name : Old Net Name=NetIC1_1 New Net Name=CURR_A_N
+Added Differential Pair: Name=CURR_A
+Change Rule Scope 1 : Old Scope=InNet('NetIC1_1') New Scope=InNet('CURR_A_N')

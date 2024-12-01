@@ -1,0 +1,3 @@
+Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=SL_A Pin=*-2

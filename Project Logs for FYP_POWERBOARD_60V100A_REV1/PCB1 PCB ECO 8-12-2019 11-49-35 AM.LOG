@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=CURR_A_P Pin=Q4-11
+Change Component Library : Designator=Q1 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=Q2 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=Q3 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=Q4 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=Q5 Old Library=* New Library=SamacSys.SchLib
+Change Component Library : Designator=Q6 Old Library=* New Library=SamacSys.SchLib
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE

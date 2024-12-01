@@ -1,0 +1,4 @@
+Added Pin To Net: NetName=\SL_A Pin=J2-4
+Added Pin To Net: NetName=\SL_A Pin=J2-6
+Added Pin To Net: NetName=\SL_A Pin=J2-8
+Change Net Name : Old Net Name=\SL_A New Net Name=GND

@@ -1,0 +1,10 @@
+Change Component Comment : Designator=C8 Old Comment=2.2uF, 0603 New Comment=2.2u
+Change Component Comment : Designator=C10 Old Comment=2.2uF, 0603 New Comment=2.2u
+Change Component Comment : Designator=C11 Old Comment=2.2uF, 0603 New Comment=2.2u
+Change Component Comment : Designator=C12 Old Comment=2.2uF, 0603 New Comment=2.2u
+Change Component Comment : Designator=C9 Old Comment=Ceramic cap 0603 New Comment=2.2u
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE

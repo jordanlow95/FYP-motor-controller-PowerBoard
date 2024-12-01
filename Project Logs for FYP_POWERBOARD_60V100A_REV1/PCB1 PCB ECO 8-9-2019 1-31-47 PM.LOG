@@ -1,0 +1,7 @@
+Change Net Name : Old Net Name=P_B New Net Name=CURR_B_N
+Change Net Name : Old Net Name=SH_B New Net Name=CURR_B_P
+Added Differential Pair: Name=CURR_B
+Added Rule: Name=Schematic Differential Pairs Routing_2
+Added Rule: Name=Schematic Differential Pairs Routing_3
+Added Rule: Name=Schematic Differential Pairs Routing_4
+Added Rule: Name=Schematic Differential Pairs Routing_5

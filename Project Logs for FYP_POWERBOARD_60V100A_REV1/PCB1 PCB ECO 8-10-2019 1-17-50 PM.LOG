@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=GND Pin=J2-6
+Removed Pin From Net: NetName=GND Pin=J2-8
+Change Component Kind : Designator=* Old Kind=Net Tie New Kind=Standard
+Added Component: Designator=*(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Component: Designator=*(NET_TIE)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=GND Pin=*-1
+Added Pin To Net: NetName=SL_B Pin=*-2
+Added Pin To Net: NetName=SL_B Pin=J2-6
+Added Net: Name=SL_B
+Added Pin To Net: NetName=SL_C Pin=*-2
+Added Pin To Net: NetName=SL_C Pin=J2-8
+Added Net: Name=SL_C
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE
+Added Member To Class: ClassName=Sheet1 Member=Component * NET_TIE

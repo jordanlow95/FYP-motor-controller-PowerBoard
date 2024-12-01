@@ -1,0 +1,24 @@
+Removed Pin From Net: NetName=CURR_A_P Pin=*-2
+Removed Pin From Net: NetName=CURR_C_P Pin=*-2
+Removed Pin From Net: NetName=CURR_A_P Pin=Q1-6
+Removed Pin From Net: NetName=CURR_A_P Pin=Q1-7
+Removed Pin From Net: NetName=CURR_A_P Pin=Q1-8
+Removed Pin From Net: NetName=CURR_C_P Pin=Q3-7
+Removed Pin From Net: NetName=CURR_C_P Pin=Q3-8
+Removed Pin From Net: NetName=CURR_A_P Pin=Q4-13
+Removed Pin From Net: NetName=CURR_A_P Pin=Q4-14
+Removed Pin From Net: NetName=CURR_A_P Pin=Q4-15
+Removed Pin From Net: NetName=CURR_B_P Pin=Q5-13
+Removed Pin From Net: NetName=CURR_B_P Pin=Q5-14
+Removed Pin From Net: NetName=CURR_C_P Pin=Q6-14
+Removed Pin From Net: NetName=CURR_C_P Pin=Q6-15
+Added Pin To Net: NetName=CURR_A_P Pin=Q4-11
+Added Pin To Net: NetName=Net*_2 Pin=*-2
+Added Pin To Net: NetName=Net*_2 Pin=Q1-7
+Added Pin To Net: NetName=Net*_2 Pin=Q1-8
+Added Net: Name=Net*_2
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
+Added Member To Class: ClassName=POWERBOARD Member=Component * NET_TIE
